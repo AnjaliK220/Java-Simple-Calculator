@@ -8,8 +8,8 @@ Developed as **Task 1** during my **Java Development Internship**.
 
 ## ✨ Features
 
-- **Dual Modes:** - **CLI Mode (`SimpleCalculator.java`):** A clean terminal-based calculator.
-  - **GUI Mode (`GuiCalculator.java`):** An interactive, modern desktop app built using **Java Swing**.
+
+- **GUI Mode (`GuiCalculator.java`):** An interactive, modern desktop app built using **Java Swing**.
 - **Core Operations:** Supports Addition (`+`), Subtraction (`-`), Multiplication (`*`), and Division (`/`).
 - **Robust Logic:** Includes edge-case handling like preventing application crashes during division by zero.
 
