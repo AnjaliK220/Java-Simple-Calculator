@@ -21,12 +21,6 @@ Developed as **Task 1** during my **Java Development Internship**.
 - **GUI Framework:** Java Swing & AWT
 - **IDE:** Visual Studio Code (VS Code)
 
----
 
-## 🚀 How to Run the Project
 
-### 1. Running the GUI Desktop App (Recommended)
-Open your terminal/command prompt and run the following commands:
-```bash
-javac GuiCalculator.java
-java GuiCalculator
+
